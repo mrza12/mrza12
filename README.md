@@ -1,6 +1,6 @@
 # <summary><strong>Hi there :wave: , I'm Mirza!</strong></summary>
 i'm currently undergraduated computer science student at university. Really Interest in Data Science especially in Data Engineer and Data Analyst
-</p>
+
 ### <summary><strong>Yosh!</strong></summary>
 <p>
     - :keyboard: I’m currently still learning. </br>
