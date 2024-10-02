@@ -1,5 +1,5 @@
 ## <strong>Hi there :wave: , I'm Mirza!</strong>
-i'm currently undergraduated computer science student at university. Really Interest in Data Science especially in Data Engineer and Data Analyst
+i'm currently undergraduated computer science student at university. Really Interest in Data Science especially in Data Scientist and Data Analyst
 
 ### <strong>Get Know More About Me!</strong>
 <p>
