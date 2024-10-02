@@ -1,8 +1,6 @@
-## Hi there 👋
-
 # <summary><strong>Hi there :wave: , I'm Mirza!</strong></summary>
 i'm currently undergraduated computer science student at university. Really Interest in Data Science especially in Data Engineer and Data Analyst
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=goonesmile&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
+<p align="left"> <img src="https://www.linkedin.com/in/mirzaalaydaumayroh/" alt="isrealodejobi" />
 </p>
 
 ### <summary><strong>Tools:</strong></summary>
