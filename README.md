@@ -9,8 +9,8 @@ i'm currently undergraduated computer science student at university. Really Inte
     - :cloud: Pronouns: She/Her. </br>
 <p>
 <p>   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrza12&layout=compact&theme=radical)
- </p> 
+    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrza12&layout=compact&theme=radical)
+</p> 
 ### <strong>Let's connect!</strong>
 <a href="https://www.linkedin.com/in/mirzaalaydaumayroh/">
   <img align="left" alt="Goo's Blog" width="20px" src="https://simpleicons.now.sh/blogger/495f7e" />
