@@ -1,4 +1,4 @@
-# <summary><strong>Hi there :wave: , I'm Mirza!</strong></summary>
+<summary><strong>Hi there :wave: , I'm Mirza!</strong></summary>
 i'm currently undergraduated computer science student at university. Really Interest in Data Science especially in Data Engineer and Data Analyst
 
 ### <summary><strong>Get Know More About Me!</strong></summary>
