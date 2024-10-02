@@ -1,13 +1,6 @@
 # <summary><strong>Hi there :wave: , I'm Mirza!</strong></summary>
 i'm currently undergraduated computer science student at university. Really Interest in Data Science especially in Data Engineer and Data Analyst
-<p align="left"> <img src="https://www.linkedin.com/in/mirzaalaydaumayroh/" alt="isrealodejobi" />
 </p>
-
-### <summary><strong>Tools:</strong></summary>
-<p>
-    <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
-</p>
-
 ### <summary><strong>Yosh!</strong></summary>
 <p>
     - :keyboard: I’m currently still learning. </br>
