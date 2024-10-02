@@ -1,7 +1,7 @@
-## <summary><strong>Hi there :wave: , I'm Mirza!</strong></summary>
+## <strong>Hi there :wave: , I'm Mirza!</strong>
 i'm currently undergraduated computer science student at university. Really Interest in Data Science especially in Data Engineer and Data Analyst
 
-### <summary><strong>Get Know More About Me!</strong></summary>
+### <strong>Get Know More About Me!</strong>
 <p>
     - :keyboard: I’m currently still learning. </br>
     - :speech_balloon: Ask me about anything.</br>
@@ -9,7 +9,7 @@ i'm currently undergraduated computer science student at university. Really Inte
     - :cloud: Pronouns: She/Her. </br>
 <p>
  
-### <summary><strong>Let's connect!</strong></summary>
+### <strong>Let's connect!</strong>
 <a href="https://www.linkedin.com/in/mirzaalaydaumayroh/">
   <img align="left" alt="Goo's Blog" width="20px" src="https://simpleicons.now.sh/blogger/495f7e" />
 </a>
