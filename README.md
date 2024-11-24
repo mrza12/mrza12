@@ -4,7 +4,6 @@ i'm currently undergraduated computer science student at university. Really Inte
 ### <strong>Get Know More About Me!</strong>
 <p>
     - :keyboard: I’m currently still learning. </br>
-    - :speech_balloon: Ask me about anything.</br>
     - :mailbox: How to reach me: <a href="mailto:mirzaumayroh@gmail.com">Email me!</a>  </br>
     - :cloud: Pronouns: She/Her. </br>
 <p>
