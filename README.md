@@ -42,7 +42,3 @@ I'm currently an undergraduate Computer Science student at university, with a st
 </p>
 
 ---
-
-<div align="center">
-    <p>Thanks for visiting! 😊</p>
-</div>
