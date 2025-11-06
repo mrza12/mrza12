@@ -11,7 +11,7 @@ I'm currently an fresh graduate Computer Science student at university, with a s
 ### <strong>GitHub Stats</strong>
 <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrza12&layout=compact&hide=html&langs_count=8" height="200" />
-    <!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=mrza12&show_icons=true&locale=en" alt="mrza12" height="200"/> -->
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=mrza12&show_icons=true&locale=en" alt="mrza12" height="200"/>
 </p>
 
 ### <strong>Languages and Tools</strong>
