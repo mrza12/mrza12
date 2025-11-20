@@ -33,12 +33,12 @@ I'm currently an fresh graduate Computer Science student at university, with a s
 
 ### <strong>Let’s Connect!</strong>
 <p>
-    <a href="https://www.linkedin.com/in/mirzaaumayroh">
+    <!-- <a href="https://www.linkedin.com/in/mirzaaumayroh">
       <img align="left" alt="Mirza's LinkedIn" width="24px" src="https://simpleicons.now.sh/linkedin/0A66C2" />
     </a>
     <a href="https://www.instagram.com/yours/">
       <img align="left" alt="Mirza's Instagram" width="24px" src="https://simpleicons.now.sh/instagram/E4405F" />
-    </a>
+    </a> -->
 </p>
 
 ---
