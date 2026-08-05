@@ -16,6 +16,12 @@ I'm currently a fresh graduate Computer Science student, with a strong interest 
 
 ### <strong>Languages and Tools</strong>
 
+### <strong>GitHub Trophies</strong>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mrza12&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&margin-h=4" alt="GitHub Trophies" />
+</p>
+
 <p>
     <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
     <img align="left" alt="Tensorflow" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" />
